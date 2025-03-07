@@ -1,6 +1,6 @@
 import sqlite3 as SQL
 
-path_to_db = '/Users/gui/Desktop/RTDE/Jezus/bible_verses.db'
+path_to_db = '/path/to/db'
 
 
 def get_verse():
